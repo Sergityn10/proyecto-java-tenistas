@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Golpeadores
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ clase\:\ Golpeadores.\r\n\ @Prop\u00F3sito\ de\ la\ clase\:\ Representar\ el\ tipo\ de\ Tenista\ denominado\ Golpeador.\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=nombre\ zapatillas\ saque\ resto\ ranking\ pais\ numPie
+comment1.target=Golpeadores(java.lang.String,\ Zapatillas,\ java.lang.Double,\ java.lang.Double,\ int,\ java.lang.String,\ java.lang.Double)
+comment1.text=\r\n\ Constructor\ parametrizado\ 1\ de\ la\ Clase\ Golpeadores.\r\n\ \r\n\ @param\ nombre\ \ \ \ \ \ Es\ el\ nombre\ del\ tenista\ golpeador\r\n\ @param\ zapatillas\ \ Son\ las\ zapatillas\ del\ tenista\ golpeador,\ pueden\ ser\ Amortiguadas\ o\ ConAgarre\r\n\ @param\ saque\ \ \ \ \ \ \ Es\ el\ valor\ de\ velocidad\ media\ de\ saque\ del\ tenista\ golpeador\r\n\ @param\ resto\ \ \ \ \ \ \ Es\ el\ valor\ de\ velocidad\ media\ de\ resto\ del\ tenista\ golpeador\r\n\ @param\ ranking\ \ \ \ \ Es\ la\ posici\u00F3n\ del\ tenista\ golpeador\ en\ el\ ranking\ mundial\r\n\ @param\ pais\ \ \ \ \ \ \ \ Es\ el\ pa\u00EDs\ del\ que\ procede\ el\ tenista\ golpeador\r\n\ @param\ numPie\ \ \ \ \ \ Es\ el\ valor\ del\ n\u00FAmero\ de\ pie\ de\ las\ zapatillas\ del\ tenista\ golpeador\r\n
+comment2.params=nombre\ zapatillas\ saque\ resto\ ranking\ pais\ numPie\ raqueta
+comment2.target=Golpeadores(java.lang.String,\ Zapatillas,\ java.lang.Double,\ java.lang.Double,\ int,\ java.lang.String,\ java.lang.Double,\ Raqueta)
+comment2.text=\r\n\ Constructor\ parametrizado\ 2\ de\ la\ Clase\ Golpeadores.\r\n\ \r\n\ @param\ nombre\ \ \ \ \ \ Es\ el\ nombre\ del\ tenista\ golpeador\r\n\ @param\ zapatillas\ \ Son\ las\ zapatillas\ del\ tenista\ golpeador,\ pueden\ ser\ Amortiguadas\ o\ ConAgarre\r\n\ @param\ saque\ \ \ \ \ \ \ Es\ el\ valor\ de\ velocidad\ media\ de\ saque\ del\ tenista\ golpeador\r\n\ @param\ resto\ \ \ \ \ \ \ Es\ el\ valor\ de\ velocidad\ media\ de\ resto\ del\ tenista\ golpeador\r\n\ @param\ ranking\ \ \ \ \ Es\ la\ posici\u00F3n\ del\ tenista\ golpeador\ en\ el\ ranking\ mundial\r\n\ @param\ pais\ \ \ \ \ \ \ \ Es\ el\ pa\u00EDs\ del\ que\ procede\ el\ tenista\ golpeador\r\n\ @param\ numPie\ \ \ \ \ \ Es\ el\ valor\ del\ n\u00FAmero\ de\ pie\ de\ las\ zapatillas\ del\ tenista\ golpeador\r\n\ @param\ raqueta\ \ \ \ \ Es\ la\ raqueta\ del\ tenista\ golpeador\r\n
+comment3.params=
+comment3.target=void\ golpear()
+comment3.text=\r\n\ M\u00E9todo\ el\ que\ los\ tenistas\ voleadores\ incrementan\ sus\ puntos\ acumulados\ en\ un\ 10%\ de\ la\ \r\n\ velocidad\ que\ alcanza\ su\ raqueta.\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Muestra\ los\ campos\ del\ Tenista\ Golpeador.\r\n\ \r\n\ @return\ Devuelve\ una\ cadena\ String\ formada\ por\ el\ nombre,\ saque,\ resto,\ ranking,\ pais,\ numPie\ y\ zapatillas\ del\ Tenista\ Golpeador\r\n
+numComments=5

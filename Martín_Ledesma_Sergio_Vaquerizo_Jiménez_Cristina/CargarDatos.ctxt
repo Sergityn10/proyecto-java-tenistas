@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CargarDatos
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ clase\:\ CargarDatos.\r\n\ @Prop\u00F3sito\ de\ la\ clase\:\ Cargar\ los\ Datos\ de\ la\ Competici\u00F3n.\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=campeonato
+comment1.target=CargarDatos(Campeonato)
+comment1.text=\r\n\ Constructor\ parametrizado\ de\ la\ Clase\ CargarDatos.\r\n\ \r\n\ @param\ campeonato\ \ Es\ un\ Campeonato\r\n
+comment2.params=campeonato
+comment2.target=void\ cargarDatos1(Campeonato)
+comment2.text=\r\n\ M\u00E9todo\ que\ carga\ los\ datos\ 1\ de\ un\ Campeonato\r\n\ \r\n\ @param\ campeonato\ \ Es\ un\ Campeonato\r\n
+comment3.params=campeonato
+comment3.target=void\ cargarDatos2(Campeonato)
+comment3.text=\r\n\ M\u00E9todo\ que\ carga\ los\ datos\ 2\ de\ un\ Campeonato\r\n\ \r\n\ @param\ campeonato\ \ Es\ un\ Campeonato\r\n
+numComments=4

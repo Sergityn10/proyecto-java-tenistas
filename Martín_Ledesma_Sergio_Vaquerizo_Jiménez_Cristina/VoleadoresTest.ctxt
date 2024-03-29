@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=VoleadoresTest
+comment0.text=\r\n\ The\ test\ class\ VoleadoresTest.\r\n\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ @Version\:\ 3.0\r\n
+comment1.params=
+comment1.target=VoleadoresTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ VoleadoresTest\r\n
+comment10.params=
+comment10.target=void\ testElegirZapatillasVoleador()
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testCalcularSaqueTenistaVoleador()
+comment5.params=
+comment5.target=void\ testCalcularRestoTenistaVoleador()
+comment6.params=
+comment6.target=void\ testSacarVoleador()
+comment7.params=
+comment7.target=void\ testRestarVoleador()
+comment8.params=
+comment8.target=void\ testCambiarRaquetaTenistaVoleador()
+comment9.params=
+comment9.target=void\ testJugar()
+numComments=11

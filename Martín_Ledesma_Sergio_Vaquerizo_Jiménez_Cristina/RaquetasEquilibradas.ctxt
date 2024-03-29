@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RaquetasEquilibradas
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ clase\:\ RaquetasEquilibradas.\r\n\ @Prop\u00F3sito\ de\ la\ clase\:\ Declara\ la\ funcionalidad\ de\ las\ Raquetas\ Equilibradas\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=modelo\ peso\ longitud\ tama\u00F1oCabeza\ tipo\ multPot\ multCont
+comment1.target=RaquetasEquilibradas(java.lang.String,\ java.lang.Double,\ java.lang.Double,\ java.lang.Double,\ TipoEncordado,\ java.lang.Double,\ java.lang.Double)
+comment1.text=\r\n\ Constructor\ parametrizado\ de\ la\ Clase\ RaquetasEquilibradas\r\n\ \r\n\ @param\ modelo\ \ \ \ \ \ \ \ Es\ el\ modelo\ de\ la\ Raqueta\ Equilibrada\r\n\ @param\ peso\ \ \ \ \ \ \ \ \ \ Es\ el\ peso\ de\ la\ Raqueta\ Equilibrada\r\n\ @param\ longitud\ \ \ \ \ \ Es\ la\ longitud\ de\ la\ Raqueta\ Equilibrada\r\n\ @param\ tama\u00F1oCabeza\ \ Es\ el\ tama\u00F1o\ de\ cabeza\ de\ la\ Raqueta\ Equilibrada\r\n\ @param\ tipo\ \ \ \ \ \ \ \ \ \ Es\ el\ estilo\ del\ encordado\ de\ la\ Raqueta\ Equilibrada,\ puede\ ser,\ Abierto\ o\ Cerrado\r\n\ @param\ multPot\ \ \ \ \ \ \ Es\ el\ multiplicador\ de\ potencia\ de\ la\ Raqueta\ Equilibrada\r\n\ @param\ multCont\ \ \ \ \ \ Es\ el\ multiplicador\ de\ control\ de\ la\ Raqueta\ Equilibrada\r\n
+comment2.params=
+comment2.target=java.lang.Double\ calcularPotencia()
+comment3.params=
+comment3.target=java.lang.Double\ calcularControl()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

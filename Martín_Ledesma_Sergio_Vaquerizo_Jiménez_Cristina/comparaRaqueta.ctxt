@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=comparaRaqueta
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ clase\:\ ComparaRaqueta.\r\n\ @Prop\u00F3sito\ de\ la\ clase\:\ Hacer\ un\ comparador\ que\ compare\ dos\ Raquetas.\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=r1\ r2
+comment1.target=int\ compare(Raqueta,\ Raqueta)
+comment1.text=\r\n\ M\u00E9todo\ que\ compara\ dos\ raquetas\ seg\u00FAn\ su\ potencia,\ si\ son\ iguales,\ se\ tiene\ en\ cuenta\ \r\n\ el\ modelo\ de\ Raqueta\ como\ criterio\ de\ desempate.\r\n\ \r\n\ @param\ r1\ \ Es\ una\ Raqueta\r\n\ @param\ r2\ \ Es\ una\ Raqueta\r\n\ \r\n\ @return\ \ \ \ Devuelve\ un\ n\u00FAmero\ entero\ seg\u00FAn\ la\ comparaci\u00F3n\ de\ la\ potencia\ de\ las\ raquetas.\r\n
+numComments=2

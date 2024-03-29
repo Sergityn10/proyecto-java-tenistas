@@ -1,0 +1,356 @@
+SimulacionDemo.main({ });
+***** Inicio del campeonato: Campeonato de Extremadura *****
+
+***** Asignando raquetas a tenistas *****
+   **       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:2.0) 
+        [modelo = Prince Warrior
+        longitud: 740.0, potencia asociada: 60.0
+        tamaño: 720.0, control asociado: 4.0
+        peso: 340.0, velocidad asociada: 2.0] asignada a -->> Novak Djokovic
+   **       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:2.0) 
+        [modelo = Prince Force
+        longitud: 690.0, potencia asociada: 24.0
+        tamaño: 630.0, control asociado: 16.0
+        peso: 320.0, velocidad asociada: 4.0] asignada a -->> Ashleigh Barty
+   **       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:2.0) 
+        [modelo = Head Graphene
+        longitud: 690.0, potencia asociada: 24.0
+        tamaño: 630.0, control asociado: 16.0
+        peso: 320.0, velocidad asociada: 4.0] asignada a -->> Stefanos Tsitsipas
+   **       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Wilson Pro Open
+        longitud: 740.0, potencia asociada: 20.0
+        tamaño: 720.0, control asociado: 2.0
+        peso: 340.0, velocidad asociada: 3.0] asignada a -->> Karolina Pliskova
+   **       RaquetasEquilibradas (MultiplicadorDePotencia:8.0) (MultiplicadorDeControl:1.0) 
+        [modelo = Class 100L
+        longitud: 680.0, potencia asociada: 16.0
+        tamaño: 720.0, control asociado: 2.0
+        peso: 320.0, velocidad asociada: 4.0] asignada a -->> Elina Svitolina
+   **       RaquetasPotentes (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Babolat Pure Drive
+        longitud: 720.0, potencia asociada: 14.4
+        tamaño: 600.0, control asociado: 10.0
+        peso: 260.0, velocidad asociada: 12.0] asignada a -->> Alexander Zverev
+   **       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:3.0) 
+        [modelo = Prince TT Bandit
+        longitud: 680.0, potencia asociada: 12.0
+        tamaño: 680.0, control asociado: 12.0
+        peso: 220.0, velocidad asociada: 10.0] asignada a -->> Aryna Sabalenka
+   **       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Dunlop CX200
+        longitud: 700.0, potencia asociada: 12.0
+        tamaño: 630.0, control asociado: 8.0
+        peso: 300.0, velocidad asociada: 9.0] asignada a -->> Daniil Medvedev
+
+***** Listado de Competidores:
+    ** Tenista (Golpeadores) [nombre = Novak Djokovic, saque = 90.0, resto = 80.0, ranking = 1, país = Serbia, numero pie = 42.0]
+       ZapatillasAmortiguadas [modelo = Air Zoom Vapor Pro, número = 42.0, valor = 5.0]
+       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:2.0) 
+        [modelo = Prince Warrior
+        longitud: 740.0, potencia asociada: 60.0
+        tamaño: 720.0, control asociado: 4.0
+        peso: 340.0, velocidad asociada: 2.0] 
+
+    ** Tenista (Golpeadores) [nombre = Ashleigh Barty, saque = 70.0, resto = 80.0, ranking = 1, país = Australia, numero pie = 40.0]
+       ZapatillasConAgarre [modelo = Court Vapor React, número = 40.0, valor = 5.0]
+       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:2.0) 
+        [modelo = Prince Force
+        longitud: 690.0, potencia asociada: 24.0
+        tamaño: 630.0, control asociado: 16.0
+        peso: 320.0, velocidad asociada: 4.0] 
+
+    ** Tenista (Voleadores) [nombre = Stefanos Tsitsipas, saque = 55.0, resto = 48.0, ranking = 3, país = Grecia, numero pie = 43.0]
+       ZapatillasAmortiguadas [modelo = Zoom GP Turbo, número = 43.0, valor = 3.5]
+       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:2.0) 
+        [modelo = Head Graphene
+        longitud: 690.0, potencia asociada: 24.0
+        tamaño: 630.0, control asociado: 16.0
+        peso: 320.0, velocidad asociada: 4.0] 
+
+    ** Tenista (Voleadores) [nombre = Karolina Pliskova, saque = 67.0, resto = 68.5, ranking = 3, país = Rep Checa, numero pie = 39.0]
+       ZapatillasConAgarre [modelo = Court Lite, número = 39.0, valor = 3.0]
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Wilson Pro Open
+        longitud: 740.0, potencia asociada: 20.0
+        tamaño: 720.0, control asociado: 2.0
+        peso: 340.0, velocidad asociada: 3.0] 
+
+    ** Tenista (Golpeadores) [nombre = Elina Svitolina, saque = 55.5, resto = 68.5, ranking = 4, país = Ucrania, numero pie = 40.0]
+       ZapatillasAmortiguadas [modelo = UberSonic 4K, número = 40.0, valor = 6.0]
+       RaquetasEquilibradas (MultiplicadorDePotencia:8.0) (MultiplicadorDeControl:1.0) 
+        [modelo = Class 100L
+        longitud: 680.0, potencia asociada: 16.0
+        tamaño: 720.0, control asociado: 2.0
+        peso: 320.0, velocidad asociada: 4.0] 
+
+    ** Tenista (Golpeadores) [nombre = Alexander Zverev, saque = 59.0, resto = 49.5, ranking = 4, país = Alemania, numero pie = 42.0]
+       ZapatillasConAgarre [modelo = CourtJam Bounce, número = 42.0, valor = 3.5]
+       RaquetasPotentes (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Babolat Pure Drive
+        longitud: 720.0, potencia asociada: 14.4
+        tamaño: 600.0, control asociado: 10.0
+        peso: 260.0, velocidad asociada: 12.0] 
+
+    ** Tenista (Voleadores) [nombre = Aryna Sabalenka, saque = 67.5, resto = 79.5, ranking = 2, país = Bielorrusia, numero pie = 40.0]
+       ZapatillasConAgarre [modelo = Gel-Resolution 8 GS, número = 40.0, valor = 4.0]
+       RaquetasEquilibradas (MultiplicadorDePotencia:6.0) (MultiplicadorDeControl:3.0) 
+        [modelo = Prince TT Bandit
+        longitud: 680.0, potencia asociada: 12.0
+        tamaño: 680.0, control asociado: 12.0
+        peso: 220.0, velocidad asociada: 10.0] 
+
+    ** Tenista (Voleadores) [nombre = Daniil Medvedev, saque = 79.0, resto = 68.0, ranking = 2, país = Rusia, numero pie = 42.0]
+       ZapatillasAmortiguadas [modelo = Vapor Lite, número = 42.0, valor = 3.0]
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Dunlop CX200
+        longitud: 700.0, potencia asociada: 12.0
+        tamaño: 630.0, control asociado: 8.0
+        peso: 300.0, velocidad asociada: 9.0] 
+
+
+ ***** Listado de raquetas disponibles:
+       RaquetasEquilibradas (MultiplicadorDePotencia:2.5) (MultiplicadorDeControl:4.0) 
+        [modelo = Prince Hornet 100
+        longitud: 690.0, potencia asociada: 10.0
+        tamaño: 600.0, control asociado: 40.0
+        peso: 220.0, velocidad asociada: 10.0] 
+       RaquetasControladas (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Prince Force Ti OS
+        longitud: 740.0, potencia asociada: 10.0
+        tamaño: 600.0, control asociado: 25.0
+        peso: 340.0, velocidad asociada: 2.4] 
+       RaquetasControladas (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Head Prestige Pro
+        longitud: 740.0, potencia asociada: 10.0
+        tamaño: 720.0, control asociado: 4.4
+        peso: 340.0, velocidad asociada: 2.4] 
+       RaquetasControladas (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Babolat Drive
+        longitud: 740.0, potencia asociada: 10.0
+        tamaño: 600.0, control asociado: 25.0
+        peso: 340.0, velocidad asociada: 2.4] 
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Wilson Energy XL
+        longitud: 690.0, potencia asociada: 8.0
+        tamaño: 680.0, control asociado: 4.0
+        peso: 260.0, velocidad asociada: 12.0] 
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Wilson Blade
+        longitud: 690.0, potencia asociada: 8.0
+        tamaño: 680.0, control asociado: 4.0
+        peso: 260.0, velocidad asociada: 12.0] 
+       RaquetasControladas (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Dunlop Nitro
+        longitud: 720.0, potencia asociada: 8.0
+        tamaño: 600.0, control asociado: 22.0
+        peso: 340.0, velocidad asociada: 2.4] 
+       RaquetasEquilibradas (MultiplicadorDePotencia:2.5) (MultiplicadorDeControl:4.0) 
+        [modelo = Wilson Pro Staff
+        longitud: 680.0, potencia asociada: 5.0
+        tamaño: 600.0, control asociado: 40.0
+        peso: 220.0, velocidad asociada: 10.0] 
+       RaquetasControladas (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Wilson Silver
+        longitud: 690.0, potencia asociada: 4.0
+        tamaño: 650.0, control asociado: 13.200000000000001
+        peso: 220.0, velocidad asociada: 12.0] 
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Head Radical
+        longitud: 680.0, potencia asociada: 4.0
+        tamaño: 680.0, control asociado: 4.0
+        peso: 260.0, velocidad asociada: 12.0] 
+       RaquetasPotentes (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Yonex Vcore
+        longitud: 680.0, potencia asociada: 3.6
+        tamaño: 650.0, control asociado: 6.0
+        peso: 300.0, velocidad asociada: 9.0] 
+       RaquetasPotentes (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Babolat Boost Drive
+        longitud: 680.0, potencia asociada: 3.6
+        tamaño: 600.0, control asociado: 10.0
+        peso: 220.0, velocidad asociada: 15.0] 
+       RaquetasControladas (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = TFlash 300
+        longitud: 680.0, potencia asociada: 2.0
+        tamaño: 680.0, control asociado: 10.0
+        peso: 300.0, velocidad asociada: 7.199999999999999] 
+       RaquetasControladas (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Pure Aero
+        longitud: 680.0, potencia asociada: 2.0
+        tamaño: 720.0, control asociado: 5.0
+        peso: 340.0, velocidad asociada: 2.4] 
+       RaquetasControladas (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Head Instinct
+        longitud: 680.0, potencia asociada: 2.0
+        tamaño: 600.0, control asociado: 22.0
+        peso: 220.0, velocidad asociada: 12.0] 
+
+***** Ronda---->>>>: 1
+  #### Juego ----------->>>: 0
+    ## Tenista1 (Golpeadores) ---->>>: Novak Djokovic
+       Zapatillas asignadas:            ZapatillasAmortiguadas [modelo = K-Swiss Express, número = 42.0, valor = 3.0]
+    ## Tenista2 (Voleadores) ---->>>: Daniil Medvedev
+       Zapatillas asignadas:            ZapatillasAmortiguadas [modelo = Babolat Jet Tere, número = 42.0, valor = 5.5]
+       Novak Djokovic cambia su raqueta por: RaquetasEquilibradas modelo = Prince Hornet 100 velocidad = 10.0
+       Daniil Medvedev cambia su raqueta por : RaquetasPotentes modelo = Wilson Energy XL velocidad = 12.0
+@@@@@@ El Medio Generalista La Tierrina destaca en Deportes que en el Campeonato de Extremadura en la 
+ronda 1 se ha impuesto Novak Djokovic a Daniil Medvedevpor una diferencia de 93422.24 puntos.
+@@@@@@ El Medio Deportivo Anota destaca que en el Campeonato de Extremadura en la ronda 1 se 
+ha impuesto Novak Djokovic que ocupa la posicion 1 en el ranking a Daniil Medvedev ocupa la posicion 
+2 con un marcador de 194784.19999999998-101361.95999999998.
+    ## Gana este juego: Novak Djokovic con 194784.19999999998 puntos acumulados
+    ## Se elimina: Daniil Medvedev con 101361.95999999998 puntos acumulados. Tenista eliminado núm: 1
+
+  #### Juego ----------->>>: 1
+    ## Tenista1 (Golpeadores) ---->>>: Ashleigh Barty
+       Zapatillas asignadas:            ZapatillasAmortiguadas [modelo = Lotto Space, número = 40.0, valor = 5.0]
+    ## Tenista2 (Voleadores) ---->>>: Aryna Sabalenka
+       Zapatillas asignadas:            ZapatillasAmortiguadas [modelo = Lotto Mirage, número = 40.0, valor = 6.0]
+       Ashleigh Barty cambia su raqueta por: RaquetasControladas modelo = Prince Force Ti OS velocidad = 2.4
+       Aryna Sabalenka cambia su raqueta por : RaquetasPotentes modelo = Wilson Blade velocidad = 12.0
+@@@@@@ El Medio Generalista La Tierrina destaca en Deportes que en el Campeonato de Extremadura en la 
+ronda 1 se ha impuesto Aryna Sabalenka a Ashleigh Bartypor una diferencia de 106813.4 puntos.
+@@@@@@ El Medio Deportivo Anota destaca que en el Campeonato de Extremadura en la ronda 1 se 
+ha impuesto Aryna Sabalenka que ocupa la posicion 2 en el ranking a Ashleigh Barty ocupa la posicion 
+1 con un marcador de 179389.8-72576.4.
+    ## Gana este juego: Aryna Sabalenka con 179389.8 puntos acumulados
+    ## Se elimina: Ashleigh Barty con 72576.4 puntos acumulados. Tenista eliminado núm: 2
+
+  #### Juego ----------->>>: 2
+    ## Tenista1 (Voleadores) ---->>>: Stefanos Tsitsipas
+    ## Tenista2 (Golpeadores) ---->>>: Alexander Zverev
+       Zapatillas asignadas:            ZapatillasAmortiguadas [modelo = Wilson Rush, número = 42.0, valor = 3.5]
+       Stefanos Tsitsipas cambia su raqueta por : RaquetasEquilibradas modelo = Wilson Pro Staff velocidad = 10.0
+       Alexander Zverev cambia su raqueta por: RaquetasControladas modelo = Head Prestige Pro velocidad = 2.4
+@@@@@@ El Medio Deportivo Anota destaca que en el Campeonato de Extremadura en la ronda 1 se 
+ha impuesto Stefanos Tsitsipas que ocupa la posicion 3 en el ranking a Alexander Zverev ocupa la posicion 
+4 con un marcador de 127280.4-77076.912.
+    ## Gana este juego: Stefanos Tsitsipas con 127280.4 puntos acumulados
+    ## Se elimina: Alexander Zverev con 77076.912 puntos acumulados. Tenista eliminado núm: 3
+
+  #### Juego ----------->>>: 3
+    ## Tenista1 (Voleadores) ---->>>: Karolina Pliskova
+    ## Tenista2 (Golpeadores) ---->>>: Elina Svitolina
+       Zapatillas asignadas:            ZapatillasAmortiguadas [modelo = K-Swiss Hypercourt, número = 40.0, valor = 5.0]
+       Karolina Pliskova cambia su raqueta por : RaquetasControladas modelo = Wilson Silver velocidad = 12.0
+       Elina Svitolina cambia su raqueta por: RaquetasControladas modelo = Babolat Drive velocidad = 2.4
+@@@@@@ El Medio Deportivo Anota destaca que en el Campeonato de Extremadura en la ronda 1 se 
+ha impuesto Karolina Pliskova que ocupa la posicion 3 en el ranking a Elina Svitolina ocupa la posicion 
+4 con un marcador de 86413.152-38362.00000000001.
+    ## Gana este juego: Karolina Pliskova con 86413.152 puntos acumulados
+    ## Se elimina: Elina Svitolina con 38362.00000000001 puntos acumulados. Tenista eliminado núm: 4
+
+
+***** Ronda---->>>>: 2
+  #### Juego ----------->>>: 0
+    ## Tenista1 (Golpeadores) ---->>>: Novak Djokovic
+       Zapatillas asignadas:            ZapatillasConAgarre [modelo = Asics Gel-Game, número = 42.0, valor = 4.5]
+    ## Tenista2 (Voleadores) ---->>>: Karolina Pliskova
+       Novak Djokovic cambia su raqueta por: RaquetasControladas modelo = Dunlop Nitro velocidad = 2.4
+       Karolina Pliskova cambia su raqueta por : RaquetasPotentes modelo = Babolat Boost Drive velocidad = 15.0
+@@@@@@ El Medio Generalista La Tierrina destaca en Deportes que en el Campeonato de Extremadura en la 
+ronda 2 se ha impuesto Novak Djokovic a Karolina Pliskovapor una diferencia de 7092.3279999999795 puntos.
+@@@@@@ El Medio Deportivo Anota destaca que en el Campeonato de Extremadura en la ronda 2 se 
+ha impuesto Novak Djokovic que ocupa la posicion 1 en el ranking a Karolina Pliskova ocupa la posicion 
+3 con un marcador de 90608.68-83516.35200000001.
+    ## Gana este juego: Novak Djokovic con 90608.68 puntos acumulados
+    ## Se elimina: Karolina Pliskova con 83516.35200000001 puntos acumulados. Tenista eliminado núm: 5
+
+  #### Juego ----------->>>: 1
+    ## Tenista1 (Voleadores) ---->>>: Aryna Sabalenka
+       Zapatillas asignadas:            ZapatillasAmortiguadas [modelo = Head Revolt, número = 40.0, valor = 5.0]
+    ## Tenista2 (Voleadores) ---->>>: Stefanos Tsitsipas
+       Aryna Sabalenka no ha cambiado de raqueta
+       Stefanos Tsitsipas cambia su raqueta por : RaquetasPotentes modelo = Head Radical velocidad = 12.0
+@@@@@@ El Medio Generalista La Tierrina destaca en Deportes que en el Campeonato de Extremadura en la 
+ronda 2 se ha impuesto Stefanos Tsitsipas a Aryna Sabalenkapor una diferencia de 13361.550000000003 puntos.
+@@@@@@ El Medio Deportivo Anota destaca que en el Campeonato de Extremadura en la ronda 2 se 
+ha impuesto Stefanos Tsitsipas que ocupa la posicion 3 en el ranking a Aryna Sabalenka ocupa la posicion 
+2 con un marcador de 108150.75-94789.2.
+    ## Gana este juego: Stefanos Tsitsipas con 108150.75 puntos acumulados
+    ## Se elimina: Aryna Sabalenka con 94789.2 puntos acumulados. Tenista eliminado núm: 6
+
+
+***** Ronda---->>>>: 3
+  #### Juego ----------->>>: 0
+    ## Tenista1 (Golpeadores) ---->>>: Novak Djokovic
+       Zapatillas asignadas:            ZapatillasConAgarre [modelo = Asics Solution, número = 42.0, valor = 3.0]
+    ## Tenista2 (Voleadores) ---->>>: Stefanos Tsitsipas
+       Novak Djokovic cambia su raqueta por: RaquetasPotentes modelo = Yonex Vcore velocidad = 9.0
+       Stefanos Tsitsipas no ha cambiado de raqueta
+@@@@@@ El Medio Generalista La Tierrina destaca en Deportes que en el Campeonato de Extremadura en la 
+ronda 3 se ha impuesto Novak Djokovic a Stefanos Tsitsipaspor una diferencia de 4420.44000000001 puntos.
+@@@@@@ El Medio Deportivo Anota destaca que en el Campeonato de Extremadura en la ronda 3 se 
+ha impuesto Novak Djokovic que ocupa la posicion 1 en el ranking a Stefanos Tsitsipas ocupa la posicion 
+3 con un marcador de 34862.64000000001-30442.199999999997.
+    ## Gana este juego: Novak Djokovic con 34862.64000000001 puntos acumulados
+    ## Se elimina: Stefanos Tsitsipas con 30442.199999999997 puntos acumulados. Tenista eliminado núm: 7
+
+
+---->>>>  Gana la competición:   ** Tenista (Golpeadores) [nombre = Novak Djokovic, saque = 90.0, resto = 80.0, ranking = 1, país = Serbia, numero pie = 42.0]
+       ZapatillasConAgarre [modelo = Asics Solution, número = 42.0, valor = 3.0]
+       RaquetasPotentes (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Yonex Vcore
+        longitud: 680.0, potencia asociada: 3.6
+        tamaño: 650.0, control asociado: 6.0
+        peso: 300.0, velocidad asociada: 9.0] 
+  <<<<----
+
+***** Listado de eliminados:
+    ** Tenista (Voleadores) [nombre = Stefanos Tsitsipas, saque = 55.0, resto = 48.0, ranking = 3, país = Grecia, numero pie = 43.0]
+       ZapatillasAmortiguadas [modelo = Zoom GP Turbo, número = 43.0, valor = 3.5]
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Head Radical
+        longitud: 680.0, potencia asociada: 4.0
+        tamaño: 680.0, control asociado: 4.0
+        peso: 260.0, velocidad asociada: 12.0] 
+
+    ** Tenista (Voleadores) [nombre = Aryna Sabalenka, saque = 67.5, resto = 79.5, ranking = 2, país = Bielorrusia, numero pie = 40.0]
+       ZapatillasAmortiguadas [modelo = Head Revolt, número = 40.0, valor = 5.0]
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Wilson Blade
+        longitud: 690.0, potencia asociada: 8.0
+        tamaño: 680.0, control asociado: 4.0
+        peso: 260.0, velocidad asociada: 12.0] 
+
+    ** Tenista (Voleadores) [nombre = Karolina Pliskova, saque = 67.0, resto = 68.5, ranking = 3, país = Rep Checa, numero pie = 39.0]
+       ZapatillasConAgarre [modelo = Court Lite, número = 39.0, valor = 3.0]
+       RaquetasPotentes (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Babolat Boost Drive
+        longitud: 680.0, potencia asociada: 3.6
+        tamaño: 600.0, control asociado: 10.0
+        peso: 220.0, velocidad asociada: 15.0] 
+
+    ** Tenista (Golpeadores) [nombre = Elina Svitolina, saque = 55.5, resto = 68.5, ranking = 4, país = Ucrania, numero pie = 40.0]
+       ZapatillasAmortiguadas [modelo = K-Swiss Hypercourt, número = 40.0, valor = 5.0]
+       RaquetasControladas (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Babolat Drive
+        longitud: 740.0, potencia asociada: 10.0
+        tamaño: 600.0, control asociado: 25.0
+        peso: 340.0, velocidad asociada: 2.4] 
+
+    ** Tenista (Golpeadores) [nombre = Alexander Zverev, saque = 59.0, resto = 49.5, ranking = 4, país = Alemania, numero pie = 42.0]
+       ZapatillasAmortiguadas [modelo = Wilson Rush, número = 42.0, valor = 3.5]
+       RaquetasControladas (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Head Prestige Pro
+        longitud: 740.0, potencia asociada: 10.0
+        tamaño: 720.0, control asociado: 4.4
+        peso: 340.0, velocidad asociada: 2.4] 
+
+    ** Tenista (Golpeadores) [nombre = Ashleigh Barty, saque = 70.0, resto = 80.0, ranking = 1, país = Australia, numero pie = 40.0]
+       ZapatillasAmortiguadas [modelo = Lotto Space, número = 40.0, valor = 5.0]
+       RaquetasControladas (Encordado:Cerrado) (MultiplicadorDePotencia:1.8) (MultiplicadorDeControl:2.5) 
+        [modelo = Prince Force Ti OS
+        longitud: 740.0, potencia asociada: 10.0
+        tamaño: 600.0, control asociado: 25.0
+        peso: 340.0, velocidad asociada: 2.4] 
+
+    ** Tenista (Voleadores) [nombre = Daniil Medvedev, saque = 79.0, resto = 68.0, ranking = 2, país = Rusia, numero pie = 42.0]
+       ZapatillasAmortiguadas [modelo = Babolat Jet Tere, número = 42.0, valor = 5.5]
+       RaquetasPotentes (Encordado:Abierto) (MultiplicadorDePotencia:2.0) (MultiplicadorDeControl:2.2) 
+        [modelo = Wilson Energy XL
+        longitud: 690.0, potencia asociada: 8.0
+        tamaño: 680.0, control asociado: 4.0
+        peso: 260.0, velocidad asociada: 12.0] 
+

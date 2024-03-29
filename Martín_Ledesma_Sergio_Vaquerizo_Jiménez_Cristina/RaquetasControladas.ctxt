@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RaquetasControladas
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ clase\:\ RaquetasControladas.\r\n\ @Prop\u00F3sito\ de\ la\ clase\:\ Declara\ la\ funcionalidad\ de\ las\ Raquetas\ Controladas\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=modelo\ peso\ longitud\ tama\u00F1oCabeza\ tipo
+comment1.target=RaquetasControladas(java.lang.String,\ java.lang.Double,\ java.lang.Double,\ java.lang.Double,\ TipoEncordado)
+comment1.text=\r\n\ Constructor\ parametrizado\ de\ la\ Clase\ RaquetasControladas\r\n\ \r\n\ @param\ modelo\ \ \ \ \ \ \ \ Es\ el\ modelo\ de\ la\ Raqueta\ Controlada\r\n\ @param\ peso\ \ \ \ \ \ \ \ \ \ Es\ el\ peso\ de\ la\ Raqueta\ Controlada\r\n\ @param\ longitud\ \ \ \ \ \ Es\ la\ longitud\ de\ la\ Raqueta\ Controlada\r\n\ @param\ tama\u00F1oCabeza\ \ Es\ el\ tama\u00F1o\ de\ cabeza\ de\ la\ Raqueta\ Controlada\r\n\ @param\ tipo\ \ \ \ \ \ \ \ \ \ Es\ el\ estilo\ del\ encordado\ de\ la\ Raqueta\ Controlada,\ puede\ ser,\ Abierto\ o\ Cerrado\r\n
+comment2.params=
+comment2.target=java.lang.Double\ calcularControl()
+comment3.params=
+comment3.target=java.lang.Double\ calcularVelocidad()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

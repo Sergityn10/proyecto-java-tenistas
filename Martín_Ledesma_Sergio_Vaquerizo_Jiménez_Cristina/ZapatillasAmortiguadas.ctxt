@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ZapatillasAmortiguadas
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ clase\:\ Amortiguadas.\r\n\ @Prop\u00F3sito\ de\ la\ clase\:\ Guardar\ el\ tipo\ de\ zapatillas\ que\ ser\u00E1\ Amortiguadas\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=modelo\ numero\ valor
+comment1.target=ZapatillasAmortiguadas(java.lang.String,\ java.lang.Double,\ java.lang.Double)
+comment1.text=\r\n\ Constructor\ parametrizado\ de\ la\ Clase\ Amortiguadas.\ Llama\ al\ constructor\ de\ la\ superclase\ Zapatillas.\r\n\ \r\n\ @param\ \ modelo\ Es\ el\ modelo\ de\ las\ zapatillas\ del\ tenista\r\n\ @param\ \ numero\ Es\ el\ n\u00FAmero\ de\ las\ zapatillas\ del\ tenista\r\n\ @param\ \ valor\ \ Es\ el\ valor\ n\u00FAmerico\ de\ agarre\ o\ amortiguaci\u00F3n\ de\ las\ zapatillas\ del\ tenista\r\n
+comment2.params=
+comment2.target=java.lang.Double\ calcularValorSaque()
+comment2.text=\r\n\ Devuelve\ el\ valor\ de\ saque\ que\ devuelve\ el\ m\u00E9todo\ de\ la\ superclase\ Zapatillas,\ y\ multiplica\ ese\ valor\ por\ su\ multiplicador\r\n\ de\ amortiguaci\u00F3n\ que\ es\ 1.8\r\n\ \r\n\ @return\ \ Devuelve\ un\ n\u00FAmero\ decimal\ que\ es\ el\ el\ valor\ de\ saque\ de\ las\ zapatillas\ amortiguadas\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Notificador
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ Interface\:\ Notificador.\r\n\ @Prop\u00F3sito\ de\ la\ Interface\:\ Env\u00EDa\ eventos\ de\ inter\u00E9s\ a\ objetos\ suscritos\ a\ sus\ cambios\ de\ estado.\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=suscriptor
+comment1.target=void\ suscribir(Suscriptor)
+comment1.text=\r\n\ M\u00E9todo\ que\ suscribe\ a\ un\ suscriptor\ en\ la\ lista\ de\ suscriptores.\r\n\ \r\n\ @param\ suscriptor\ \ Es\ un\ Suscriptor\r\n\ \r\n
+comment2.params=suscriptor
+comment2.target=void\ anularSuscripcion(Suscriptor)
+comment2.text=\r\n\ M\u00E9todo\ que\ elimina\ a\ un\ suscriptor\ en\ la\ lista\ de\ suscriptores.\r\n\ \r\n\ @param\ suscriptor\ \ Es\ un\ Suscriptor\r\n\ \r\n
+comment3.params=ronda\ ganador\ perdedor
+comment3.target=void\ notificarSuscriptores(int,\ Tenista,\ Tenista)
+comment3.text=\r\n\ M\u00E9todo\ que\ nofica\ a\ los\ suscriptores\ de\ alguna\ noficaci\u00F3n/alarma/novedad/...\r\n\ \r\n\ @param\ ronda\ \ \ \ \ Es\ un\ contador\ que\ cuenta\ el\ n\u00FAmero\ de\ rondas\r\n\ @param\ ganador\ \ \ Es\ un\ Tenista\r\n\ @param\ perdedor\ \ Es\ un\ Tenista\r\n\ \r\n
+numComments=4

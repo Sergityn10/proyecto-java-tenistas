@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Suscriptor
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ Interface\:\ Suscriptor.\r\n\ @Prop\u00F3sito\ de\ la\ Interface\:\ Declara\ la\ interfaz\ de\ Notificador.\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=ronda\ ganador\ perdedor
+comment1.target=void\ actualizar(int,\ Tenista,\ Tenista)
+comment1.text=\r\n\ M\u00E9todo\ que\ actualiza\ las\ notificaciones\ con\ respecto\ al\ Campeonato.\r\n\ \r\n\ @param\ ronda\ \ \ \ \ Es\ un\ contador\ que\ cuenta\ el\ n\u00FAmero\ de\ rondas\r\n\ @param\ ganador\ \ \ Es\ un\ Tenista\r\n\ @param\ perdedor\ \ Es\ un\ Tenista\r\n\ \r\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Raqueta
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ Interface\:\ Raqueta.\r\n\ @Prop\u00F3sito\ de\ la\ Interface\:\ Declara\ la\ funcionalidad\ com\u00FAn\ de\ todas\ las\ Raquetas\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getModelo()
+comment1.text=\r\n\ Retorna\ el\ modelo\ de\ la\ Raqueta.\r\n\ \r\n\ @return\ Devuelve\ un\ String\ que\ es\ el\ modelo\ de\ la\ Raqueta\r\n
+comment2.params=
+comment2.target=java.lang.Double\ calcularPotencia()
+comment2.text=\r\n\ M\u00E9todo\ que\ calcula\ el\ valor\ de\ Potencia\ de\ la\ Raqueta.\r\n\ \r\n\ @return\ \ Devuelve\ un\ n\u00FAmero\ decimal\ que\ es\ el\ valor\ de\ Potencia\ de\ la\ Raqueta\r\n
+comment3.params=
+comment3.target=java.lang.Double\ calcularControl()
+comment3.text=\r\n\ M\u00E9todo\ que\ calcula\ el\ valor\ de\ Control\ de\ la\ Raqueta.\r\n\ \r\n\ @return\ \ Devuelve\ un\ n\u00FAmero\ decimal\ que\ es\ el\ valor\ de\ Control\ de\ la\ Raqueta\r\n
+comment4.params=
+comment4.target=java.lang.Double\ calcularVelocidad()
+comment4.text=\r\n\ M\u00E9todo\ que\ calcula\ el\ valor\ de\ Velocidad\ de\ la\ Raqueta.\r\n\ \r\n\ @return\ \ Devuelve\ un\ n\u00FAmero\ decimal\ que\ es\ el\ valor\ de\ Velocidad\ de\ la\ Raqueta\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Muestra\ los\ campos\ de\ las\ Raquetas\:\ modelo,\ peso,\ longitud,\ tama\u00F1o\ de\ la\ cabeza\ y\ estilo\ de\ encordado.\r\n\ \r\n\ @return\ \ Devuelve\ una\ cadena\ String\ formada\ por\ el\ modelo,\ peso,\ longitud,\ tama\u00F1o\ de\ la\ cabeza\ y\ estilo\ de\ encordado\ de\ la\ Raqueta\r\n
+numComments=6

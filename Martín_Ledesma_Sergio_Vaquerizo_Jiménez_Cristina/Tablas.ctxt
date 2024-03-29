@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tablas
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ clase\:\ Tablas.\r\n\ @Prop\u00F3sito\ de\ la\ clase\:\ Guardar\ las\ tablas\ de\ control,\ potencia\ y\ velocidad.\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=
+comment1.target=Tablas()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ la\ Clase\ Tablas.\r\n
+comment2.params=key
+comment2.target=java.lang.Double\ getPotencia(java.lang.Double)
+comment2.text=\r\n\ Devuelve\ el\ valor\ de\ potencia\ teniendo\ en\ cuenta\ la\ longitud\ de\ la\ raqueta.\r\n\ \r\n\ @return\ Retorna\ el\ valor\ de\ potencia\r\n\ \r\n
+comment3.params=key
+comment3.target=java.lang.Double\ getControl(java.lang.Double)
+comment3.text=\r\n\ Devuelve\ el\ valor\ de\ control\ teniendo\ en\ cuenta\ la\ el\ tama\u00F1o\ de\ la\ cabeza\ de\ la\ raqueta.\r\n\ \r\n\ @return\ Retorna\ el\ valor\ de\ control\r\n\ \r\n
+comment4.params=key
+comment4.target=java.lang.Double\ getVelocidad(java.lang.Double)
+comment4.text=\r\n\ Devuelve\ el\ valor\ de\ velocidad\ teniendo\ en\ cuenta\ el\ peso\ de\ la\ raqueta.\r\n\ \r\n\ @return\ Retorna\ el\ valor\ de\ velocidad\r\n\ \r\n
+numComments=5

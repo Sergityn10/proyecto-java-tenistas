@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TipoEncordado
+comment0.text=\r\n\ \r\n\ @Nombre\ del\ enum\:\ TipoEncordado.\r\n\ @Prop\u00F3sito\ del\ enum\:\ Guardar\ los\ dos\ tipos\ de\ encordado\ (abierto\ y\ cerrado)\ y\ sus\ multiplicadores\ de\ potencia\ y\ control.\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=tipo\ multPot\ multCont
+comment1.target=TipoEncordado(java.lang.String,\ java.lang.Double,\ java.lang.Double)
+comment1.text=\r\n\ Constructor\ parametrizado\ del\ enum\ TipoEncordado.\r\n\ \r\n\ @param\ tipo\ \ \ \ \ Es\ el\ tipo\ de\ encordado\r\n\ @param\ multPot\ \ Es\ el\ multiplicador\ de\ potencia\ del\ encordado\r\n\ @param\ multCont\ Es\ el\ multiplicador\ de\ control\ del\ encordado\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment2.text=\r\n\ Devuelve\ el\ tipo\ de\ encordado.\ \r\n\ \r\n\ @return\ Retorna\ el\ tipo\ de\ encordado\r\n
+comment3.params=
+comment3.target=java.lang.Double\ getMultPot()
+comment3.text=\r\n\ Devuelve\ el\ multiplicador\ de\ potencia\ del\ encordado.\r\n\ \r\n\ @return\ Retorna\ el\ multiplicador\ de\ potencia\ del\ encordado\r\n
+comment4.params=
+comment4.target=java.lang.Double\ getMulCont()
+comment4.text=\r\n\ Devuelve\ el\ multiplicador\ de\ control\ del\ encordado.\r\n\ \r\n\ @return\ Retorna\ el\ multiplicador\ de\ control\ del\ encordado\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Muestra\ los\ campos\ del\ enum\ TipoEncordado.\r\n\ \r\n\ @return\ \ Devuelve\ una\ cadena\ String\ formada\ por\ el\ tipo\ de\ encordado,\ el\ multiplicador\ de\ potencia\ y\ \r\n\ el\ multiplicador\ de\ control\ de\ la\ Raqueta\r\n
+numComments=6

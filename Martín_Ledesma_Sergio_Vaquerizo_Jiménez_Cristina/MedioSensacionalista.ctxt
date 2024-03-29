@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MedioSensacionalista
+comment0.text=\r\n\ \r\n\ @Nombre\ de\ la\ Clase\:\ MedioSensacionalista.\r\n\ @Prop\u00F3sito\ de\ la\ Clase\:\ Representa\ al\ suscriptor\ Medio\ Sensacionalista\r\n\ @Versi\u00F3n\:\ 3.0\r\n\ @Autores\:\ Sergio\ Mart\u00EDn\ Ledesma\ y\ Cristina\ Vaquerizo\ Jim\u00E9nez.\r\n\ \r\n
+comment1.params=nombre
+comment1.target=MedioSensacionalista(java.lang.String)
+comment1.text=\r\n\ Constructor\ parametrizado\ de\ la\ Clase\ MedioSensacionalista.\r\n\ \r\n\ @param\ \ Es\ el\ nombre\ del\ MedioSensacionalista\r\n
+comment2.params=ronda\ ganador\ perdedor
+comment2.target=void\ actualizar(int,\ Tenista,\ Tenista)
+numComments=3
